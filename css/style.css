@@ -1,0 +1,223 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.wrap
+{
+    height: 600px;
+    width: 100%;
+    background-color: aqua;
+    
+}
+.header
+{
+  height: 90px;
+  width: 100%;
+  /* background-color: black; */
+
+}
+.header
+{
+    height: 600px;
+    width: 100%;
+    background-image:url(../img/homebg.jpg);
+    background-size: cover;
+}
+.header h1{
+    color: darkred;
+    line-height: 90px;
+    margin-left: 15%;
+    float: left;
+    font-weight: bold;
+
+}
+.header ul
+{
+    float: right;
+    list-style-type: none;
+    color: darkred;
+    font-weight: bold;
+    margin-right: 88px;
+
+}
+.header li
+{
+    margin: 10px;
+    display: inline;
+    line-height: 90px;
+    text-align: center; 
+}
+.midtext
+{
+    height: 200px;
+    width: 600px;
+    float: left;
+    font-family: cursive;
+
+    text-align: center;
+    margin-left: 23%;
+    margin-top: 82px;
+}
+.midtext h2
+{
+    font-size: 30px;
+}
+.midtext p
+{
+    margin-top: 10px;
+    color: darkred;
+
+}
+.txtbox 
+{
+    height:35px;
+    width: 250px;
+    margin-top: 10px;
+}
+.btn
+{
+    height:35px;
+    width: 80px;
+    color: darkred;
+    background-color: transparent;
+    text-align: center;
+    margin-left: 5px;
+}
+.about 
+{
+height:500px;
+width: 100%;
+}
+.about h2,.franchies h2,.portfolio h2,.contact h2
+{
+    color: darkred;
+    font-size: 50px;
+    text-align: center;
+    padding: 40px;
+}.about p
+{
+    width: 80%;
+    text-align: center;
+    margin-left: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+.about-area 
+{
+ height: auto;
+ width:100%;
+}
+.about-area ul 
+{
+    list-style-type: none;
+    float: right;
+    color: darkred;
+    text-decoration: none;
+    margin-right: 240px;
+}
+.about-area  li 
+{
+    height: 60px;
+    width: 150px;
+
+    text-align: center;
+    line-height: 60px;
+    font-weight: bolder;
+    display: inline-block;
+    border: 4px solid darkred;
+    /* padding: 30px; */
+    margin: 20px;
+
+}
+.franchies 
+{
+    height:500px;
+    width: 100%;
+    background-color: black;
+}
+.franchies img
+{
+    float: left;
+    margin-left: 55px;
+    border: 5px solid darkred;
+}
+.isidetext 
+{
+  float: right;  
+ font-size: 20px;
+ margin-top:35px;
+ color: white;
+ 
+}
+.portfolio
+{
+height: 600px;
+width: 100%;
+
+}
+.portfolio img
+{
+ height: 220px;
+ width: 290px;
+ /* margin: 5px; */
+margin-left: 18px;
+margin-bottom: 5px;
+} 
+.contact
+{
+    height: 500px;
+    width: 100%;
+}
+.contact form
+{
+    float: left;
+    height: 400px;
+    width: 250px;
+
+    margin-left: 160px;
+}
+.contact #text,#sub,#msg
+{
+    height: 30px;
+    border: 1px solid darkred;
+    width: 400px;
+    margin-top: 10px;
+    /* background-color: transparent; */
+}
+#msg
+{
+    height: 60px;
+   
+}
+#sub
+{
+background-color: darkred;
+color: white;
+}
+.iframe
+{
+    float: right;
+    margin-right: 15%;
+}
+.footer
+{
+    height: 40px;
+    width: 100%;
+    background-color: darkred;
+  
+}
+.footer h3{
+    color: white;
+    padding: 10px;
+    float: left;
+    text-align: center;
+}
+
+
+
+
+
+
+
